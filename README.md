@@ -4,7 +4,7 @@
 ## 1.Vocabulary Object:
 --------------------------------------------------------------
 
-* Attributes:
+* **Attributes**:
 
   1.  start_word :refers to the beginning of the sentence (encoded as 0)
   2.  end_word :refers to the end of the sentence. (encoded as 1)
